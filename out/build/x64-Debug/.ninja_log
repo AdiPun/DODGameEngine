@@ -1,0 +1,12 @@
+# ninja log v6
+4	441	7755899967132877	CMakeFiles/DODGameEngine.dir/main.cpp.obj	d0ae6783b59e88ff
+19	37	7755920278649001	E:/GitHub/DODGameEngine/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	f528cc90a7aa3a7a
+443	648	7755899971526846	DODGameEngine.exe	d8a59fa12b3e450f
+38	486	7755920278834082	CMakeFiles/DODGameEngine.dir/src/main.cpp.obj	370c4c8d4f419dd4
+16	36	7755920434020690	E:/GitHub/DODGameEngine/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	f528cc90a7aa3a7a
+12	30	7755920632505568	E:/GitHub/DODGameEngine/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	f528cc90a7aa3a7a
+31	433	7755920632688237	CMakeFiles/DODGameEngine.dir/src/testObject.cpp.obj	118a7c71b315888f
+434	894	7755920636714182	DODGameEngine.exe	34f790090d9dac5e
+16	33	7755920734784014	E:/GitHub/DODGameEngine/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	f528cc90a7aa3a7a
+35	445	7755920734968731	CMakeFiles/DODGameEngine.dir/src/testObject.cpp.obj	118a7c71b315888f
+445	570	7755920739079507	DODGameEngine.exe	34f790090d9dac5e
